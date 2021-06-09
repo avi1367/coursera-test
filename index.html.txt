@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<title> prueba css</title>
+</head>
+<body>
+
+	<div class="bola">
+		
+          <h1> HOLA </h1>
+
+	</div>
+	<script type="text/javascript" src="index.js"></script>
+	
+</body>
+</html>
